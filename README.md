@@ -22,14 +22,6 @@ A current version of Chrome, Edge, Firefox or Safari. No install, no accounts an
 1. Open the `src` folder.
 2. Double-click `index.html`, or drag it into a browser window.
 
-**Optional, using a local server:** from inside the `src` folder, run
-
-```
-python -m http.server
-```
-
-(on some systems the command is `python3`), then open http://localhost:8000 in a browser.
-
 ## Testing
 
 There are no automated tests. Every acceptance criterion in [docs/user-stories.md](docs/user-stories.md) was checked by hand in [the browsers I used].
@@ -40,7 +32,7 @@ There are no automated tests. Every acceptance criterion in [docs/user-stories.m
 
 ## Code changed by hand
 
-[None / list them]
+None
 
 ## Assumptions
 
